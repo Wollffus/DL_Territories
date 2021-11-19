@@ -1,7 +1,7 @@
 # DL_Territories
 
 Zone Break down 
-
+```lua
 local gangs = {
 {name = 'Ballas Hood', gang = 'SouthsideBallas'}, -- Zone 1
 {name = 'Runtz Hood', gang = 'RuntzGang'}, -- Zone 2
@@ -11,4 +11,4 @@ local gangs = {
 {name = 'South Side', gang = 'South Side'} -- Zone 6 
 -- you can add more, just make sure the last zone added has no comma after the }
 }
-
+```
